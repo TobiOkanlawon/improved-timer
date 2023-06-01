@@ -1,0 +1,16 @@
+{
+  "name": "timer",
+  "version": "1.0.0",
+  "description": "This is a timer project that allows the Father's House Church program times before the service and then run it all at once.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^25.0.1"
+  }
+}
