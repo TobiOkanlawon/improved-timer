@@ -6,7 +6,7 @@ const createWindow = () => {
     height: 600,
   });
 
-  win.loadURL("https://www.google.com");
+  // win.loadURL("https://www.google.com");
   win.loadFile("index.html");
 };
 
