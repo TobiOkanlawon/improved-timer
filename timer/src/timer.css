@@ -16,6 +16,7 @@
   max-width: 100vw;
   color: white;
   display: flex;
+  margin-top: -24px;
 }
 
 .transition-name {

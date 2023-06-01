@@ -117,7 +117,7 @@ const TimerScreen = ({ name, minutes, seconds }) => {
 const FinishedScreen = () => {
   return (
     <main className="timer-main">
-      <h1>This programme has now finished</h1>
+      <h1>The Service has ended!</h1>
     </main>
   );
 };
