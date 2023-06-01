@@ -1,0 +1,25 @@
+.timer-main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.timer-name {
+  font-size: 4em;
+  color: white;
+}
+
+.timer-time {
+  font-size: 25em;
+  max-heigth: 70vh;
+  max-width: 100vw;
+  color: white;
+  display: flex;
+}
+
+.transition-name {
+  font-size: 2.8em;
+  color: red;
+  display: flex;
+}

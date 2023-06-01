@@ -6,8 +6,8 @@ const createWindow = () => {
     height: 600,
   });
 
-  // win.loadURL("https://www.google.com");
-  win.loadFile("index.html");
+  win.loadURL("http://localhost:5173/");
+  // win.loadFile("index.html");
 };
 
 app.whenReady().then(() => {
